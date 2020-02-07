@@ -23,3 +23,12 @@ Aula 02 de cordova no curso de PAM1
 
 8-ENVIA AS ALTERAÇÕES PARA O GITHUB
 	C:\User\Aula\aula_cordova_02>git push 
+	
+9-CORDOVA CREATE PROJETO1
+	isso vai criar uma pasta para o seu projeto
+	
+10-git add projeto1
+
+11-git commit -am "acabei de criar um projeto"
+
+12-git push
